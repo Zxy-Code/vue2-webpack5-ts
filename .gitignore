@@ -1,0 +1,8 @@
+output
+.svn
+.DS_Store
+node_modules
+personal-config.js
+.idea/
+.history
+.prettierrc.json
